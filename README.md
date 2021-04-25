@@ -1,6 +1,6 @@
 # ValidationCurve
 
-Open main.py file in PyCharm
+Open main.py file in PyCharm _
 install the dependency if there any error occure
 Place the dataset in any folder and set the path in main.py file
 Run the code and enjoy.
